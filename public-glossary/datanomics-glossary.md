@@ -211,3 +211,12 @@ Knowledge-First Operations™ framework, see the
 [KFO Framework Reference](../kfo-framework/kfo-framework-reference.md)
 in this repository. For commercial application, see
 [madewithdata.io/knowledgefirstoperations](https://www.madewithdata.io/knowledgefirstoperations).*
+
+---
+
+*Knowledge-First Operations™ is a trade mark of WyselMoore Holding Co Pty Ltd
+(ACN 683 739 273), trading as WyselMoore Group. Intellectual property rights in
+the framework and vocabulary set out on this page are held by WyselMoore Holding
+Co Pty Ltd. Copyright in the text of the thesis and published articles cited
+rests with the author, Matthew Wysel, and the respective publishers, whose moral
+rights are unaffected. Terms of use: [`LICENSE.md`](../LICENSE.md).*

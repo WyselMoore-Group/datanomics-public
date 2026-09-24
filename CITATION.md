@@ -18,4 +18,4 @@ Chapters 3, 4, 5, 6: Under revision at:
 
 ## Contact for Licensing or Research Collaboration
 
-hello@madewithdata.io
+hello@wyselmoore.com

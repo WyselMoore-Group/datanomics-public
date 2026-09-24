@@ -1,6 +1,6 @@
 # datanomics-public
 
-**Owner:** WyselMoore Group  
+**Owner:** WyselMoore Holding Co Pty Ltd (ACN 683 739 273), trading as WyselMoore Group  
 **Maintained by:** Matthew Wysel  
 **Visibility:** Public
 
@@ -21,9 +21,9 @@ markets form, how they fail, and what governance architecture is required
 to make knowledge assets trackable, tradeable, and compound-generating.
 
 This field was established through doctoral research at the University
-of New England and formalised across five published and peer-reviewed
-works spanning platform economics, information theory, and the
-microeconomics of data sharing ecosystems.
+of New England and formalised across a program of published and
+peer-reviewed research spanning platform economics, information theory,
+and the microeconomics of data sharing ecosystems.
 
 ---
 
@@ -36,10 +36,10 @@ derived from that research.
 
 **[`public-glossary/datanomics-glossary.md`](public-glossary/datanomics-glossary.md)**  
 The canonical academic vocabulary of datanomics. Definitions are grounded
-directly in Wysel (2023) and the peer-reviewed publications that comprise
-the thesis. This is the single authoritative reference for datanomics
-terminology — all downstream surfaces, including the KFO framework
-reference below, cross-link to it.
+directly in Wysel (2023) and the publications arising from that research.
+This is the single authoritative reference for datanomics terminology —
+all downstream surfaces, including the KFO framework reference below,
+cross-link to it.
 
 **[`kfo-framework/kfo-framework-reference.md`](kfo-framework/kfo-framework-reference.md)**  
 The operational terms of the Knowledge-First Operations™ (KFO) framework.
@@ -49,16 +49,16 @@ here are derived from the PhD but developed through diagnostic practice —
 the framework reference and the academic glossary are structurally
 distinct and should be read as such.
 
-Additional materials held in this repository include PhD abstracts from
-each published chapter, selected figures from the published thesis, and
-background reference and citation files.
+**[`CITATION.md`](CITATION.md)**  
+Citation information for the founding research and its published and
+in-progress chapters.
 
 ---
 
 ## What Is Not Here
 
 Commercial diagnostic instruments, client engagement materials,
-unpublished theoretical extensions, and the full Model:Knowledge
+unpublished theoretical extensions, and the full Model:Knowledge™
 framework are held privately within the WyselMoore Group organisation.
 The research documented here is the scholarly foundation from which those
 commercial embodiments are derived — not the embodiments themselves.
@@ -72,22 +72,32 @@ from Data.* PhD thesis, University of New England.
 
 Wysel, M., Baker, D., & Billingsley, W. (2021). Data sharing platforms:
 How value is created from agricultural data. *Agricultural Systems, 193*,
-103241.
+103241. https://doi.org/10.1016/j.agsy.2021.103241
 
 Wysel, M., Baker, D., & Banks, R. (2023). AgTech, agricultural data and
-market failure: Avoiding a tragedy of the (data) commons. SSRN.
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463413
+market failure: Avoiding a tragedy of the (data) commons. Preprint,
+SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463413
 
 ---
 
 ## Intellectual Property
 
-The datanomics theory, Knowledge-First Operations™ framework, and all
-associated research outputs in this repository are original scholarly
-work authored by Matthew Wysel. All intellectual property rights are
-held by Matthew Wysel. Knowledge-First Operations™ is a trademark of
-WyselMoore Group. Commercial development is conducted through
-WyselMoore Group.
+The datanomics theory and the Knowledge-First Operations™ framework
+documented here were authored by Matthew Wysel.
+
+Copyright in the text of the PhD thesis rests with its author. Copyright
+in the published articles cited above rests with the author and their
+respective publishers.
+
+All other intellectual property rights in the material published here —
+the frameworks, models, instruments, methods, vocabulary and marks it
+describes, including Knowledge-First Operations™ — are held by
+WyselMoore Holding Co Pty Ltd (ACN 683 739 273), trading as WyselMoore
+Group, under deeds of assignment dated 18 September 2026, and are
+licensed to the author for non-commercial academic use.
+
+See [`LICENSE.md`](LICENSE.md) for the terms on which this material may
+be used.
 
 ---
 
