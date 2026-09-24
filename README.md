@@ -74,9 +74,7 @@ Wysel, M., Baker, D., & Billingsley, W. (2021). Data sharing platforms:
 How value is created from agricultural data. *Agricultural Systems, 193*,
 103241. https://doi.org/10.1016/j.agsy.2021.103241
 
-Wysel, M., Baker, D., & Banks, R. (2023). AgTech, agricultural data and
-market failure: Avoiding a tragedy of the (data) commons. Preprint,
-SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463413
+Full citation record: [`CITATION.md`](CITATION.md)
 
 ---
 

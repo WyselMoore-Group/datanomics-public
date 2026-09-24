@@ -101,9 +101,6 @@ knowledge asset turnover and to benchmark against best-in-breed organisations.
 Creation of Value from Data. PhD thesis, University of New England.
 Operationalised within Knowledge-First Operations™ by MadeWithData.*
 
-*Knowledge-First Operations™ is a trade mark of WyselMoore Holding Co Pty Ltd
-(ACN 683 739 273), trading as WyselMoore Group.*
-
 *For the canonical academic definitions of datanomics theory, see the
 [Datanomics Public Glossary](../public-glossary/datanomics-glossary.md).*
 
