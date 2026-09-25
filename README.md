@@ -69,6 +69,7 @@ commercial embodiments are derived — not the embodiments themselves.
 
 Wysel, M. (2023). *Data Sharing Ecosystems and the Creation of Value
 from Data.* PhD thesis, University of New England.
+https://hdl.handle.net/1959.11/56763
 
 Wysel, M., Baker, D., & Billingsley, W. (2021). Data sharing platforms:
 How value is created from agricultural data. *Agricultural Systems, 193*,

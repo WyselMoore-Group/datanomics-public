@@ -7,7 +7,8 @@ README carries a short form drawn from it.
 
 Wysel, M. (2023). *Data Sharing Ecosystems and the Creation of Value
 from Data*. PhD thesis, University of New England. Australian Government
-Research Training Program Scholarship.
+Research Training Program Scholarship. Open access:
+https://hdl.handle.net/1959.11/56763
 
 ## Thesis Chapters
 
