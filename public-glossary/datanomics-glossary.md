@@ -2,8 +2,10 @@
 
 This glossary defines the canonical terms of datanomics — the economic science
 of how data and knowledge create, transfer, and accumulate value. Terms are
-defined by Matthew Wysel and are maintained here as the single authoritative
-reference for datanomics vocabulary. For the operational application of these
+defined by Matthew Wysel and are maintained here as the canonical reference
+for the vocabulary of datanomics as its founding research defined it. Every
+downstream surface, including the KFO Framework Reference, defers to this file.
+For the operational application of these
 principles within the Knowledge-First Operations™ framework, see the
 [KFO Framework Reference](../kfo-framework/kfo-framework-reference.md) in this
 repository. For commercial application, see
@@ -27,6 +29,15 @@ is shared — including supply level, supply frequency, and participant behaviou
 Distinct from unconditional network effects because value accrues asymmetrically
 depending on how agents participate, not merely whether they do. (Wysel, 2023,
 Ch. 5)
+
+**Data**
+An observation of uncertain relevance. Data is the core asset that permits and
+facilitates the creation of value in data sharing ecosystems, and may be treated
+as a resource, a good, or a currency. Data is excludable, non-rivalrous, and
+displays conditional data network effects; together these attributes distinguish
+it from an ordinary private good, and they are retained by the insight enriched
+from it. See also: Data as a Resource; Data as a Good; Data as Currency; Data
+Enrichment; Information; Non-Rivalry. (Wysel, 2023, Master Glossary; Ch. 4–5)
 
 **Data as Currency**
 One of three modes in which data generates value. As currency, data is exchanged
@@ -103,6 +114,17 @@ for non-rivalry, conditional network effects, or extensibility. Widespread
 treatment of data through goods-dominant logic creates predictable problems for
 participants in data trading markets. (Wysel, 2023, Ch. 5)
 
+**Information**
+Strictly equivalent to insight: data that has been enriched until it is at least
+partially relevant, and therefore valuable, to an agent with reference to a goal.
+The thesis uses *insight* throughout in preference to *information*, to avoid the
+conflation of the two terms in popular usage. Information retains data's
+properties of non-rivalry, excludability and conditional data network effects,
+and so supports multiple simultaneous valuations by the firm; its value decays as
+its relevance wanes and accumulates as it is reinvested through data-enabled
+learning. See also: Data; Data Enrichment; Non-Rivalry; Parallel Payoff.
+(Wysel, 2023, Master Glossary; Ch. 4)
+
 **Information Chain Failure**
 A vertical form of market failure occurring in data supply chains when the
 conditions for value creation from data are not met at one or more stages of
@@ -129,9 +151,10 @@ embedded interpretation and organisational context. (Wysel, 2023)
 A condition in which the knowledge markets operating within or around a firm
 produce systematically suboptimal outcomes — through mispricing, invisibility,
 or governance failure — resulting in value stasis, leakage, or underinvestment
-in knowledge assets. Knowledge market failure is the firm-level manifestation
-of the broader datanomics problem. See also: Information Chain Failure;
-Tragedy of the Data Commons. (Wysel, 2023)
+in knowledge assets. Knowledge market failure is the firm-level form of the
+market failures that datanomics identifies at ecosystem and industry level.
+See also: Information Chain Failure; Tragedy of the Data Commons; The
+Invisible Market. (Wysel, 2023)
 
 **Latent Data**
 Available data that has not yet been extracted, enriched, or applied to create
@@ -147,7 +170,9 @@ its availability to other agents. Non-rivalry is a foundational property
 distinguishing data from conventional private goods, and is the primary
 economic basis for the service-dominant logic treatment of data. Non-rivalry
 means that the efficient allocation rule for data differs from that of physical
-goods: sharing does not require sacrifice. (Wysel, 2023, Ch. 5)
+goods: sharing does not require sacrifice. (Wysel, 2023, Ch. 5) Insight — enriched data, which the thesis holds strictly
+equivalent to information — retains this property together with excludability
+and conditional network effects. (Wysel, 2023, Ch. 4)
 
 **Parallel Payoff**
 The simultaneous realisation of multiple value streams from a single data or
@@ -161,10 +186,12 @@ learning — simultaneously and without depletion. (Wysel, 2023, Ch. 4)
 The treatment of data as a service rather than a good — where exchange extends
 the asset rather than depleting it, and value is created through collaboration
 and recirculation rather than single extraction. Under service-dominant logic,
-sharing value to create data becomes strategically rational, enabling an
-expanded Pareto frontier in data sharing ecosystems and making oversharing
-rational under conditions where extensibility value exceeds extraction value.
-(Wysel, 2023, Ch. 5)
+agents invert the value creation process: rather than extracting value from
+data they already hold, they share value in order to create data — supplying
+the ecosystem so that the shared stock, and their own returns from it, grow.
+This inversion enables an expanded Pareto frontier in data sharing ecosystems
+and makes oversharing the rational strategy wherever extensibility value
+exceeds extraction value. (Wysel, 2023, Ch. 5)
 
 **Shadow Value of Latent Data**
 The estimated future value that latent data would generate if appropriately

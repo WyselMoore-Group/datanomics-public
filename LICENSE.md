@@ -13,7 +13,7 @@ Third-party material reproduced here under licence remains the property
 of its owner.
 
 All other intellectual property rights in the contents of this
-repository — including the datanomics vocabulary as published here, the
+repository — including the text of the glossary as published here, the
 Knowledge-First Operations™ (KFO) framework, Model:Knowledge, the
 diagnostic instruments and all associated marks — are held by WyselMoore
 Holding Co Pty Ltd (ACN 683 739 273), trading as WyselMoore Group
